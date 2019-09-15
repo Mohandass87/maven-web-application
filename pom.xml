@@ -95,7 +95,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.45.82:8081/repository/Docker-Maven-snapshots/</url>
+	      <url>http://172.31.45.82:8081/repository/Maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
