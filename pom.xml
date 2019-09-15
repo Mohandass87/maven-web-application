@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mohandass Releases Nexus Repository</name>
-	      <url>http://172.31.45.82:8081/repository/Docker-Maven/</url>
+	      <url>http://13.127.155.66:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.45.82:8081/repository/Maven-snapshots/</url>
+	      <url>http://13.127.155.66:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
